@@ -1,0 +1,119 @@
+body{
+    height: 10000px;
+}
+.dropend button{
+    background-color: white;
+    color: black;
+    border: none;
+}
+.collapse a:hover{
+color: #4285f4;
+}
+.active:hover{
+    color: #4285f4;
+    }
+.features .sec1{
+    text-align: center;
+}
+.card{
+    position: relative;
+    text-align: center;
+    background-color: #f1f1f1;
+    border: none;
+}
+.card .box{
+    position: absolute;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    left:50%;
+    background-color: #4285f4;
+    color: white;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.box .icon{
+    position: absolute;
+    font-size: 25px;
+    transform: translate(-50%,40%);
+}
+.card-body .btn{
+    text-decoration: none;
+    color: #4285f4;
+}
+.features .sec2{
+    margin-top: 200px;
+}
+.sec2 .pic{
+    width: 800px;
+    height: 500px;
+
+}
+.features .sec2 .text{
+    padding-top: 100px;
+}
+
+.sec2 .person{
+    border-radius: 50%;
+}
+.sec2 .card{
+    background-color: white;
+    border-left: 15px solid #4285f4;
+}
+.about{
+    margin-top: 150px;
+    background-color: #f1f1f1;
+}
+.about .list{
+    list-style: none;
+}
+.about .list li i{
+    color: green;
+    margin-right: 10px;
+}
+.about img{
+    width: 800px;
+    height: 500px;
+}
+.our-team .card{
+    background-color: white;
+}
+.our-team .card .card-body{
+    text-align: left;
+}
+.our-team .card h6{
+color: #4285f4;
+}
+.test{
+    background-color: #f1f1f1;
+}
+.test .slider img{
+width: 100px;
+height: 100px;
+margin-bottom: 50px;
+border-radius: 50%;
+box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15)!important;
+}
+.test .slider blockquote{
+    width: 800px;
+    height: 100px;
+    font-size: 20px;
+}
+.test .btn{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    color:#4285f4;
+}
+.blog .card{
+    text-align: left;
+    background-color: white;
+}
+.blog .card span{
+    color: #b3b3b3;
+}
+.blog .card a{
+    text-decoration: none;
+}
+.contant{
+  background-image: url(../imgs/img_2.jpg.png);}
